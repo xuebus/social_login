@@ -6,4 +6,4 @@
   QQ开放平台：https://connect.qq.com/index.html
   微信开放平台：https://open.weixin.qq.com/
   
-2.配置环境变量system_env，本地配置local
+2.配置环境变量system_env，本地配置local.
